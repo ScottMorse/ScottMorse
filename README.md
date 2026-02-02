@@ -6,7 +6,7 @@
 
 Hi, I'm Scott!
 
-I do use AI to help me work, but I don't use it to talk to you, so none of what is written here was generated.
+I do use AI to help me work, but I don't use it to talk to you, so none of what is written here was generated. My profile picture is also not AI but made by the same artist that designed the `bun-workspaces` [mascot](https://bunworkspaces.com/lore).
 
 ### Experience and Stack
 
