@@ -10,7 +10,7 @@ Hi, I'm Scott! I'm a passionate software engineer with a background as a profess
 
 I have broad experience as a React developer, backend developer, cloud architect, DevOps owner, and so on, for startups and the enterprise. TypeScript is my main language, and [Bun](https://bun.sh) is my runtime of choice for it, at least as my package manager, though I'm flexible with using whatever tools I need.
 
-### My AI use
+### My AI Use
 
 I do use AI to help me work, but I don't use it to talk to you, so none of what is written here was generated. My profile picture is also not AI but made by the same artist that designed the `bun-workspaces` [mascot](https://bunworkspaces.com/lore).
 
