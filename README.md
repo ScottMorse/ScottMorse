@@ -14,7 +14,7 @@ I have broad experience as a React developer, backend developer, cloud architect
 
 I do use AI to help me work, but I don't use it to talk to you, so none of what is written here was generated. My profile picture is also not AI but made by the same artist that designed the `bun-workspaces` [mascot](https://bunworkspaces.com/lore).
 
-I am not all in on AI, but I do use the tools. You'll notice I have CLAUDE.md/AGENTS.md files and the like. However, I review all code that needs to go to production and generally use a hybrid workflow where I will often write some features and fixes manually, and I hold code to the same standards I did as an enterprise tech lead. I also tend to write most documentation myself, believing that I shouldnt' release something I can't describe accurately myself.
+I am not all in on AI, but I do use the tools. You'll notice I have CLAUDE.md/AGENTS.md files and the like. However, I review all code that needs to go to production and generally use a hybrid workflow where I will often write some features and fixes manually, and I hold code to the same standards I did as an enterprise tech lead. I also tend to write most documentation myself, believing that I shouldn't release something I can't describe accurately myself.
 
 ### My Current Work
 
